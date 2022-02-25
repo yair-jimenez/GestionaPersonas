@@ -1,0 +1,16 @@
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.exe
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.deps.json
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.runtimeconfig.json
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.runtimeconfig.dev.json
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.dll
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\ref\MiPrimeraAplicacion.dll
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\net5.0\MiPrimeraAplicacion.pdb
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.AssemblyInfo.cs
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.dll
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\ref\MiPrimeraAplicacion.dll
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.pdb
+C:\Users\yair.jimenez\source\repos\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\net5.0\MiPrimeraAplicacion.genruntimeconfig.cache
